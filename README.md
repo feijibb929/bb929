@@ -23,7 +23,10 @@ PHP版本7.X，不老，维护方便，市面上好些图库资料站PHP5.x的�
 
 
 ## 前端界面截图
-
+![image](https://github.com/feijibb929/bb929/assets/171640259/668986d4-0e19-4059-8e11-d15f4ae1bf85)
+![image](https://github.com/feijibb929/bb929/assets/171640259/bf99aac5-8184-47ed-9e69-d605e31db612)
+![image](https://github.com/feijibb929/bb929/assets/171640259/59ebb5cb-7fcc-461a-b462-985791cbd3b6)
+![image](https://github.com/feijibb929/bb929/assets/171640259/685fb1d9-ed1a-4c2e-b2f2-163c6b50e3ec)
 
 前端界面截图
 ### 🚀 开发技术
